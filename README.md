@@ -6,4 +6,4 @@ about improving my knowledge. <br><br>
 The bot is made of Python + Selenium. <br>
 It uses Google Chrome to work. <br>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LKvNCPB_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/orzqipasg2192qrw0kho.png" align="left" alt="Python + Selenium Image" height="200">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LKvNCPB_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/orzqipasg2192qrw0kho.png" align="left" alt="Python + Selenium Image" height="180">
