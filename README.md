@@ -6,5 +6,5 @@ about improving my knowledge. <br><br>
 The bot is made of Python + Selenium. <br>
 It uses Google Chrome to work. <br>
 
-<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="left" alt="Python + Selenium Image" height="190">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" align="left" alt="Python + Selenium Image" height="190">
+<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="left" alt="Python + Selenium Image" height="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" align="left" alt="Python + Selenium Image" height="150">
