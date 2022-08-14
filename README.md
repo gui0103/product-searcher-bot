@@ -1,4 +1,4 @@
-# product-searcher-bot
+# product-searcher-bot <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 This bot can help you to compare products on <br>
 different websites faster with just some clicks. <br><br>
 I decided to start this project thinking <br>
