@@ -6,4 +6,5 @@ about improving my knowledge. <br><br>
 The bot is made of Python + Selenium. <br>
 It uses Google Chrome to work. <br>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--LKvNCPB_--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/orzqipasg2192qrw0kho.png" align="left" alt="Python + Selenium Image" height="190">
+<img src="https://img2.gratispng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg" align="left" alt="Python + Selenium Image" height="190">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" align="left" alt="Python + Selenium Image" height="190">
